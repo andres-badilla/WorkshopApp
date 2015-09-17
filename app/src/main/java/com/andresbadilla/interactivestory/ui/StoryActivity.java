@@ -26,7 +26,7 @@ public class StoryActivity extends Activity {
     private String mName;
     private Page mCurrentPage;
 
-
+    //test comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
